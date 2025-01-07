@@ -66,6 +66,7 @@ EXPO_GEMINI_API_KEY=...
 EXPO_FOOD_API_KEY=...
 EXPO_COHERE_API_KEY=...
 EXPO_GOOGLE_API_KEY=...
+
 ---
 ## 💾 Installation
 
@@ -86,6 +87,8 @@ tạo tệp .env trong thư mục gốc
 4. Khỏi chạy ứng dụng
 Trên Androi npm start hoặc npx expo start
 Trên IOS yarn start hoặc npx expo start --ios
+
+---
 ## 💡 Usage
 Tính năng chính:
 Hiển thị bài tập:
