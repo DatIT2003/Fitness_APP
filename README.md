@@ -70,6 +70,8 @@ EXPO_GOOGLE_API_KEY=...
 ---
 ## 💾 Installation
 
+(Đây là nơi đặt hướng dẫn cài đặt, với các bước cụ thể như clone repository, cài đặt phụ thuộc, cấu hình biến môi trường, và khởi chạy ứng dụng.)
+
 Yêu cầu:
 Node.js: >= 14.x
 npm hoặc yarn
@@ -90,6 +92,8 @@ Trên IOS yarn start hoặc npx expo start --ios
 
 ---
 ## 💡 Usage
+
+(Phần này mô tả cách sử dụng ứng dụng sau khi đã được cài đặt và khởi chạy thành công.)
 Tính năng chính:
 Hiển thị bài tập:
 
@@ -122,3 +126,4 @@ Tương tác với chatbot thông qua Cohere API để nhận tư vấn về ch�
 
 Sử dụng Firebase Authentication để quản lý người dùng.
 Lưu trữ ảnh đại diện và dữ liệu cá nhân trong Firebase Storage.
+---
