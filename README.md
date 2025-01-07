@@ -66,3 +66,56 @@ EXPO_GEMINI_API_KEY=...
 EXPO_FOOD_API_KEY=...
 EXPO_COHERE_API_KEY=...
 EXPO_GOOGLE_API_KEY=...
+---
+## 💾 Installation
+
+Yêu cầu:
+Node.js: >= 14.x
+npm hoặc yarn
+Expo CLI: Cài đặt bằng lệnh:
+npm install -g expo-cli
+-Android Studio hoặc Xcode (nếu chạy trên thiết bị thật)
+1.Các bước cài đặt:
+Clone Repository:
+git clone https://github.com/DatIT2003/Fitness_APP.git
+cd Fitness_APP
+2. Cài đặt các phụ thuộc: Sử dụng npm:
+npm install hoặc yarn install
+3. Cấu hình Api key
+tạo tệp .env trong thư mục gốc 
+4. Khỏi chạy ứng dụng
+Trên Androi npm start hoặc npx expo start
+Trên IOS yarn start hoặc npx expo start --ios
+## 💡 Usage
+Tính năng chính:
+Hiển thị bài tập:
+
+Truy cập vào màn hình Bài tập.
+Ứng dụng sẽ hiển thị danh sách bài tập theo từng nhóm cơ, bao gồm:
+Tên bài tập
+Mô tả ngắn
+Hình minh họa
+Nhận diện dụng cụ tập gym:
+
+Nhấp vào nút CHỌN ẢNH để tải lên hình ảnh dụng cụ tập luyện.
+Nhấp vào nút NHẬN DIỆN DỤNG CỤ để phân tích.
+Kết quả sẽ hiển thị:
+Tên dụng cụ
+Nhóm cơ chính được tập
+Mô tả ngắn gọn
+Số lần và số hiệp khuyến nghị
+Dịch mô tả bài tập và dụng cụ:
+
+Sử dụng Google API để dịch nội dung sang ngôn ngữ mong muốn.
+Hỗ trợ dinh dưỡng:
+
+Nhập tên thực phẩm để tra cứu thông tin dinh dưỡng, bao gồm:
+Hàm lượng calo
+Chỉ số dinh dưỡng (carb, protein, fat)
+Chat AI:
+
+Tương tác với chatbot thông qua Cohere API để nhận tư vấn về chế độ ăn uống và tập luyện.
+Đăng nhập/Đăng ký:
+
+Sử dụng Firebase Authentication để quản lý người dùng.
+Lưu trữ ảnh đại diện và dữ liệu cá nhân trong Firebase Storage.
