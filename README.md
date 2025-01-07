@@ -65,12 +65,11 @@ EXPO_RAPID_API_KEY=...
 EXPO_GEMINI_API_KEY=...
 EXPO_FOOD_API_KEY=...
 EXPO_COHERE_API_KEY=...
-EXPO_GOOGLE_API_KEY=...
+EXPO_GOOGLE_API_KEY.
 
 ---
-## 💾 Installation
 
-(Đây là nơi đặt hướng dẫn cài đặt, với các bước cụ thể như clone repository, cài đặt phụ thuộc, cấu hình biến môi trường, và khởi chạy ứng dụng.)
+## 💾 Installation
 
 Yêu cầu:
 Node.js: >= 14.x
@@ -88,9 +87,10 @@ npm install hoặc yarn install
 tạo tệp .env trong thư mục gốc 
 4. Khỏi chạy ứng dụng
 Trên Androi npm start hoặc npx expo start
-Trên IOS yarn start hoặc npx expo start --ios
+Trên IOS yarn start hoặc npx expo start --ios.
 
 ---
+
 ## 💡 Usage
 
 (Phần này mô tả cách sử dụng ứng dụng sau khi đã được cài đặt và khởi chạy thành công.)
