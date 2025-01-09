@@ -1,7 +1,7 @@
 # Fitness_APP
 
 **Fitness_APP** là một ứng dụng hỗ trợ người dùng tập luyện trong phòng gym. Ứng dụng cung cấp các tính năng như hiển thị bài tập, nhận diện dụng cụ tập gym, dịch ngôn ngữ, hỗ trợ dinh dưỡng, và nhiều hơn nữa để giúp người dùng tập luyện hiệu quả.
-
+## Ảnh Demo ứng dụng: https://imgur.com/V0GJdvq
 ---
 
 ## 🚀 Features
@@ -27,7 +27,15 @@
 ### 6. **Chat AI**
 - Sử dụng **Cohere API** để hỗ trợ người dùng chat về chế độ ăn uống và kế hoạch tập luyện.
 
-### 7. **Giao diện thân thiện**
+### 7. **Máy đếm bước chân**
+- Ứng dụng được tích hợp với cảm biến Gia tốc kế trên điện thoại để cung cấp tính năng máy đếm bước chân(Accelerometer)
+- Hiển thị dữ liệu theo thời gian thực hiện:
+- Số bước chân đã đi trong ngày
+- Cách di chuyển khoảng cách (km).
+- Lượng calo tiêu thụ dựa trên số bước đi .
+### 8. **Tính chỉ số  TDEE**
+- Tính chỉ số dựa theo giới tính, độ tuổi, năm sinh từ đó đưa ra chế độ ăn uống phù hợp cho người dùng .
+### 9. **Giao diện thân thiện**
 - Tích hợp thay đổi chủ đề (Theme) giữa chế độ tối và sáng.
 - Giao diện phản hồi tốt, hiển thị đẹp trên mọi thiết bị.
 
@@ -153,7 +161,7 @@ EXPO_GOOGLE_API_KEY=...
 - Nhập tên thực phẩm để tra cứu thông tin dinh dưỡng, bao gồm:
   - Hàm lượng calo
   - Chỉ số dinh dưỡng (carb, protein, fat)
-
+### Dự án đang con chưa phát triển mọi người lấy về tự nghiên cứu nhé?
 ---
 
 
