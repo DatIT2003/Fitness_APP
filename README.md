@@ -1,7 +1,8 @@
 # Fitness_APP
 
 **Fitness_APP** là một ứng dụng hỗ trợ người dùng tập luyện trong phòng gym. Ứng dụng cung cấp các tính năng như hiển thị bài tập, nhận diện dụng cụ tập gym, dịch ngôn ngữ, hỗ trợ dinh dưỡng, và nhiều hơn nữa để giúp người dùng tập luyện hiệu quả.
-## Ảnh Demo ứng dụng: https://imgur.com/a/fzP7KBH
+## Ảnh Demo ứng dụng: https://imgur.com/eMOIZ0x, https://imgur.com/HPk68sz, https://imgur.com/ZSptPvy, https://imgur.com/ZdFcKXm, https://imgur.com/AddMGnB, https://imgur.com/lKy0xqG, https://imgur.com/V5LU8hi, https://imgur.com/xiAF0q0, https://imgur.com/GC6wvyC,
+https://imgur.com/zz8ei7Q, https://imgur.com/fvVpvhX, https://imgur.com/bKZaqk2, https://imgur.com/gKZeAMC .
 ---
 
 ## 🚀 Features
